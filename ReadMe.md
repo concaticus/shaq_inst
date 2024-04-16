@@ -1,2 +1,3 @@
-# shaq_inst
-Website Project for Shaykh Abd al-Qadir al-Jilani Institute 
+# Shaykh Abd al-Qadir al-Jilani Institute
+
+Website Project for Shaq Institute
