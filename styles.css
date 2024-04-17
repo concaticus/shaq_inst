@@ -4,48 +4,47 @@ body {
   
   body::before {
     content: "XS";
-    color: red;
+    /* color: red; */
     font-size: 2rem;
     font-weight: bold;
     position: fixed;
     top: 0;
     right: 0;
   }
+
+/* Course Catelogue */
+/* Add margin and padding between each card */
+.card {
+    margin-bottom: 20px; /* Add margin at the bottom of each card */
+    padding: 20px; /* Add padding inside each card */
+
+/* Ensure images within cards are responsive */
+.card-img {
+    width: 100%;
+    height: auto;
+}
+
+/* Style card titles */
+.card-title {
+    font-size: 1.25rem; /* Adjust font size as needed */
+    margin-bottom: 0.5rem; /* Add margin below title */
+    color: #006d5b; /* Set color for title text */
+    font-size: ;
+}
+
+/* Style card subtitles */
+.card-subtitle {
+    font-size: 1rem; /* Adjust font size as needed */
+    color: #000000; /* Set color for subtitle text */
+    margin-bottom: 0.5rem; /* Add margin below subtitle */
+}
+
+/* Style card text */
+.card-text {
+    margin-top: 0.5rem; /* Add margin
+    font-size: 0.875rem; /* Adjust font size as needed */
+    color: #6c757d; /* Set color for card text */
+}
   
-  /* This box class is purely used for explaining how the bootstrap grid system works. */
-  .box {
-    background-color: lightblue;
-    border: 1px solid blue;
-    min-height: 50px;
-    font-size: 2rem;
-  }
+
   
-  @media (min-width: 576px) {
-    body::before {
-      content: "SM";
-    }
-  }
-  
-  @media (min-width: 768px) {
-    body::before {
-      content: "MD";
-    }
-  }
-  
-  @media (min-width: 992px) {
-    body::before {
-      content: "LG";
-    }
-  }
-  
-  @media (min-width: 1200px) {
-    body::before {
-      content: "XL";
-    }
-  }
-  
-  @media (min-width: 1400px) {
-    body::before {
-      content: "XXL";
-    }
-  }
