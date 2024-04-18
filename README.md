@@ -18,11 +18,13 @@ Website Project for the Shaykh Abd al-Qadir al-Jilani Institute for Islamic Stud
 - Sections for each category listing the books being taught/studied, along with a small blurb about the text and teacher
 - Twitter/Telegram API: Integrated posts section fetching notes or commentary from the Telegram page of the institute's teachers
 - Contact page with socials + e-mail form.
-- slide deck of books/texts/classes currently being offered by SHAQ Institute
+- Catelogue page with cards of books/texts/classes currently being offered by SHAQ Institute
 - Payment Gateway Integration: Possibly via Stripe
 
-### Running Notes:
+### Running Notes on Design:
 
+- Include manuscripts and texts in background with faded white overlay
+- Make the current cards it's own separate page for cateloge of all availiable class
 - Tawfiq's design is elegant
 - Teal with the dark cream colour, + white, black theme or cream and white with black and minimal teal
 - Landing page: historical Mecca map in background, faded in

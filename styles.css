@@ -3,7 +3,7 @@ body {
   }
   
   body::before {
-    content: "XS";
+    /* content: "XS"; */
     /* color: red; */
     font-size: 2rem;
     font-weight: bold;
@@ -12,12 +12,26 @@ body {
     right: 0;
   }
 
+/* Nav Bar */
+/* Nav Bar Container */
+
+.navbar-brand, .navbar-nav {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
 /* Course Catelogue */
-/* Add margin and padding between each card */
+    /* Add margin between each card */
 .card {
     margin-bottom: 20px; /* Add margin at the bottom of each card */
-    padding: 20px; /* Add padding inside each card */
+    margin-right: 20px; /* Add margin to the right of each card */
+    border-radius: 10px; /* Optional: Add border-radius for rounded corners */
+}
 
+.card-header {
+    font-size: 1rem; /* Adjust font size as needed */
+}
 /* Ensure images within cards are responsive */
 .card-img {
     width: 100%;
@@ -28,7 +42,8 @@ body {
 .card-title {
     font-size: 1.25rem; /* Adjust font size as needed */
     margin-bottom: 0.5rem; /* Add margin below title */
-    color: #006d5b; /* Set color for title text */
+    /* color: #006d5b; Set color for title text */
+    color: #045363;
     font-size: ;
 }
 
@@ -45,6 +60,3 @@ body {
     font-size: 0.875rem; /* Adjust font size as needed */
     color: #6c757d; /* Set color for card text */
 }
-  
-
-  
