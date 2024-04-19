@@ -21,6 +21,16 @@ body {
 }
 
 
+
+
+/* Table styling */
+/* Centering table's content */
+.table th,
+.table td {
+    text-align: center;
+}
+
+
 /* Course Catelogue */
     /* Add margin between each card */
 .card {

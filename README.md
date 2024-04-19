@@ -1,6 +1,6 @@
 # SHAQ Institute
 
-Website Project for the Shaykh Abd al-Qadir al-Jilani Institute for Islamic Studies. This site will operate as an important medium to liaison between the Institute and current and prospective students. Presently, SHAQ Institute's online presence is limited to X (formerly known as Twitter) and Telegram, and thus it's exposure is limited to these avenues and word of mouth. The goal of this project is to produce a website to host relevant information and details about SHAQ's goals and initiatives, with the possibility of future plans to expand the website's functionality and utility upon review.
+Website Project for the Shaykh Abd al-Qadir al-Jaylani Institute for Islamic Studies. This site will operate as an important medium to liaison between the Institute and current and prospective students. Presently, SHAQ Institute's online presence is limited to X (formerly known as Twitter) and Telegram, and thus it's exposure is limited to these avenues and word of mouth. The goal of this project is to produce a website to host relevant information and details about SHAQ's goals and initiatives, with the possibility of future plans to expand the website's functionality and utility upon review.
 
 ## Tech Stack
 
