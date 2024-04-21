@@ -20,6 +20,23 @@ body {
     margin-left: auto;
 }
 
+.navbar-nav .nav-link:hover {
+    text-decoration:#045363;
+
+}
+
+/* logo */
+.navbar-brand img {
+    border-radius: 50%; /* This will make the image appear as a circle */
+}
+/* rounding the edges only
+.navbar-brand img {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+} */
+
 
 
 
